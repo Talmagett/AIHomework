@@ -1,0 +1,16 @@
+{
+    "name": "AIAnnealing",
+    "rootNamespace": "",
+    "references": [
+        "GUID:55466da99ba0f7743913e22b7a626b52"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
